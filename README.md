@@ -12,3 +12,9 @@ FellyJish ML final.ipynb: Jupyter notebooks for exploratory data analysis, model
 requirements.yaml: List of dependencies needed to run the project.
 
 link to my post : https://www.kaggle.com/code/ilyasderrar/jellyfish-classification-with-val-acc-90-cnn
+
+License
+
+This project is licensed under the MIT License.
+
+Feel free to modify and adapt this template to fit your project's specific details and structure
