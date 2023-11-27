@@ -11,4 +11,4 @@ models/: Holds pre-trained models or saved models after training. ( to be added 
 FellyJish ML final.ipynb: Jupyter notebooks for exploratory data analysis, model training, and evaluation.
 requirements.yaml: List of dependencies needed to run the project.
 
-# link to my post : https://www.kaggle.com/code/ilyasderrar/jellyfish-classification-with-val-acc-90-cnn
+link to my post : https://www.kaggle.com/code/ilyasderrar/jellyfish-classification-with-val-acc-90-cnn
